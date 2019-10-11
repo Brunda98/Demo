@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="58362" started-at="2019-10-11T07:36:04Z" finished-at="2019-10-11T07:37:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="58362" started-at="2019-10-11T07:36:04Z" finished-at="2019-10-11T07:37:02Z">
+      <class name="Test.toursearch_Testcase">
+        <test-method status="PASS" signature="tourSearch()[pri:0, instance:Test.toursearch_Testcase@4f933fd1]" name="tourSearch" duration-ms="58325" started-at="2019-10-11T13:06:04Z" finished-at="2019-10-11T13:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tourSearch -->
+      </class> <!-- Test.toursearch_Testcase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
